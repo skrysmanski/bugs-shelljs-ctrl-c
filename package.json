@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Repo to test whether Ctrl+C key stroke works in shelljs",
   "private": true,
-  "main": "index.js",
   "author": "Sebastian Krysmanski",
   "dependencies": {
     "shelljs": "^0.7.6"
