@@ -1,6 +1,6 @@
 require('shelljs/global');
 config.fatal = true;
 
-exec('docker run --rm -ti -e MYSQL_RANDOM_ROOT_PASSWORD=1 mariadb');
+exec('docker run --rm -ti krys/ctrl-c-test');
 
 echo('Done');
